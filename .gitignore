@@ -4,3 +4,4 @@ requirements.txt
 dev_code
 .DS_Store
 logs
+*.cpython-37.pyc
