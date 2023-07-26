@@ -1,0 +1,6 @@
+requirements.txt
+.idea
+!__init__.py
+dev_code
+.DS_Store
+logs
